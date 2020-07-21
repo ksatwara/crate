@@ -51,6 +51,8 @@ Breaking Changes
 Changes
 =======
 
+- Added scalar function :ref:`pg_function_is_visible <pg_function_is_visible>`.
+
 - Changed the error code for dropping a missing view from the undefined 4040
   to 4041.
 
